@@ -1,16 +1,5 @@
 # Email-Breach-Monitoring-Alert-Script
 
-Got it 👍 — you’d like **one complete, professional README** that includes:
-
-* Project description
-* Features
-* Setup instructions
-* Example usage
-* License
-* Contribution section (optional)
-
-Here’s a **merged README** for your Email Breach Monitoring script:
-
 ---
 
 # 🔍 Email Breach Monitoring & Alert Script
